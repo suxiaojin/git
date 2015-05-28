@@ -1,1 +1,1 @@
-git is a version system
+hello,django
